@@ -6,6 +6,8 @@ Ngrok es un sevicio que te permite abrir un puerto en Internet sin necesidad de 
 
 **¡Para ello es importante saber que tenemos que tener permisos de superuser!**, para ello usaremos el siguente comando, ```sudo su``` e introduciremos nuestra contraseña de superuser.
 
+### ***Ngrok para Linux***
+
 **Existen dos formas de instalar Ngrok:**
 
 - ***Vía Snap***
